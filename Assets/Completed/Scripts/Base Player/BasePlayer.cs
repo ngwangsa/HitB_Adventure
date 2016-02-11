@@ -46,13 +46,5 @@ public class BasePlayer
         get { return def; }
         set { def = value; }
     }
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }
